@@ -32,6 +32,8 @@ Plugin 'Shougo/neocomplete.vim'
 Plugin 'tpope/vim-dispatch'
 Plugin 'jceb/vim-orgmode'
 Plugin 'tpope/vim-speeddating'
+Plugin 'pangloss/vim-javascript'
+Plugin 'mxw/vim-jsx'
 
 " Generic Programming Support
 Plugin 'jakedouglas/exuberant-ctags'

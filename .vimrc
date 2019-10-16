@@ -45,6 +45,7 @@ Plugin 'janko-m/vim-test'
 Plugin 'maksimr/vim-jsbeautify'
 Plugin 'vim-syntastic/syntastic'
 Plugin 'neomake/neomake'
+Plugin 'reasonml-editor/vim-reason-plus'
 
 " Markdown / Writting
 Plugin 'reedes/vim-pencil'
